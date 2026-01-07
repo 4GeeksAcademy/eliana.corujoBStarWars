@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'StarJedi';
+    src: url('./Fonts/Starjout.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1, h2, h3, .navbar-brand {
+    font-family: 'StarJedi', sans-serif;
+}
+
+h1, h2, h3 {
+    color: #FFE81F;
+    text-transform: lowercase;
+}
